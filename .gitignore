@@ -1,0 +1,10 @@
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.DS_Store
+.env
+.venv/
+venv/
+dist
