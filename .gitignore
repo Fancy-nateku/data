@@ -1,11 +1,5 @@
-Ignore Python cache
-_pycache_/
-*.pyc
-
-Ignore virtual environment
-venv/
-.venv/
-
-Ignore dist or build folders
-.dist/
-*.egg-info/
+  venv/
+   _pycache_/
+   *.pyc
+   *.db
+   *.log
